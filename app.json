@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "مدرسة الشهيد عثمان المهنية",
+    "slug": "shahid-othman-school",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.shahidothman.school"
+    }
+  }
+}
